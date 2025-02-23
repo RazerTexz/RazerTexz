@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/@RazerTexz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="YouTube logo"  />
   </a>
-  <a href="https://invitelink.me/TheDarkSide" target="_blank">
+  <a href="https://discord.com/invite/6HFwxANUtR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="Discord logo"  />
   </a>
 </div>
