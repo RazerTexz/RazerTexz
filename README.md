@@ -4,5 +4,5 @@
   <img alt="GitHub Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RazerTexz&theme=tokyonight" width="48%">
 </p>
 <p align="center">
-  <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=RazerTexz&style=for-the-badge">
+  <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=RazerTexz&abbreviated=true&style=for-the-badge">
 </p>
