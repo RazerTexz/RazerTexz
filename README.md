@@ -1,7 +1,7 @@
 <div align="center">
-  <code>> A guy with a cheap laptop, old phone, Notepad++, MT Manager, and a dream_</code><br>
+  <code>> A guy with a cheap laptop, old phone, MT Manager, and a dream_</code><br>
   <br>
-  <b>Android Reverse Engineering × Game Modding</b>
+  <b>Android Reverse Engineering × Game Development & Modding</b>
   <hr>
   <img src="https://simpleicons.dev/icons?icons=kotlin,openjdk,cplusplus,c,dotnet,go,javascript,godotengine,lua,gradle,git,githubactions,linux,gnubash&perline=7&color=2E3440&iconColor=ECEFF4" alt="Tech Stack" /><br>
   <br>
