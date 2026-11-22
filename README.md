@@ -1,5 +1,5 @@
 <div align="center">
-  <code>&gt; A guy with a cheap old phone, MT Manager, Termux, Github Actions, and a dream_</code><br>
+  <code>&gt; A guy with a cheap old phone, MT Manager, Termux, GitHub Actions, and a dream_</code><br>
   <br>
   <b>Android Apps &amp; Reverse Engineering • Game Development &amp; Modding • CLI Tools &amp; CI/CD</b>
   <hr>
