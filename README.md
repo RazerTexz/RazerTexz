@@ -8,5 +8,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RazerTexz&theme=nord_dark" width="48%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RazerTexz&theme=nord_dark" width="48%" alt="Top Languages" />
   <hr>
-  <code>Available for Freelance | Discord: razertexz</code>
+  <b>Available for Freelance</b><br>
+  <code>Discord: razertexz</code>
 </div>
